@@ -1,3 +1,5 @@
 /.idea/
 /Sample_Format.docx
 .~lock.*#
+/notes.odt
+/.ipynb_checkpoints/

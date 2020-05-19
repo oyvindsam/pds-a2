@@ -1,6 +1,8 @@
 1. Title: Activity Recognition from a Single Chest-Mounted Accelerometer
 	Updated Nov, 2013 , P. Casale, email: plcasale@ieee.org
-	
+
+https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+from+Single+Chest-Mounted+Accelerometer
+
 2. Abstract: The dataset collects data from a wearable accelerometer mounted on the chest. Uncalibrated Accelerometer Data are collected from 15 participants performing 7 activities. The dataset is intended for Activity Recognition research purposes. It provides challenges for identification and authentication of people using motion patterns.
 
 3. Relevant Information:
