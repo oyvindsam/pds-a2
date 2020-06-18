@@ -1,4 +1,4 @@
-#COSC2670 Practical Data Science @ RMIT
+# COSC2670 Practical Data Science @ RMIT
 ### Assignment 2 
 The assignment task was to select a dataset and explore it, 
 using all the relevant steps in the data science process (goal, data retrieval,
@@ -18,10 +18,10 @@ research using various window lengths.
 
 
 #### Report
-The rest of the report can be found in ```report.pdf```. 
+The rest of the report can be found in [```report.pdf```](report.pdf). 
 
 #### Code
-The code is in ```Assignment2.ipynb```, and can be viewed/run using a 
+The code is in  [```Assignment2.ipynb```](Assignment2.ipynb), and can be viewed/run using a 
 Jupyter environment.
 
 
